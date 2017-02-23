@@ -1,1 +1,1 @@
-# grade-calculator-app
+# This app uses categorical grade-weights--used in most university-level classes-- under the hood to allow the user to simply slide to indicate their grade in each category, and then easily see what grade overall they can make in their course. 
